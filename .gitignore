@@ -1,0 +1,6 @@
+augmented_split_dataset/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.h5
+*.keras
